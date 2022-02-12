@@ -6,6 +6,6 @@ This data has been processed to remove trips that are taken by staff as they ser
 
 ## Additional resources
 * Citi Bike publishes real-time system data in <a href="https://github.com/NABSA/gbfs/blob/master/gbfs.md">General Bikeshare Feed Specification format</a>. Get the GBFS feed <a href="http://gbfs.citibikenyc.com/gbfs/gbfs.json">here</a>.
-* A group of software developers and data explorers working with data feeds from NYC's Bike Share system and other bike data maintain <a href="https://groups.google.com/forum/#!aboutgroup/citibike-hackers">this Google Group</a>.
+* A group of peaople working with data feeds from NYC's Bike Share system and other bike data maintain <a href="https://groups.google.com/forum/#!aboutgroup/citibike-hackers">this Google Group</a>.
 * [Exploring NYC Bike Share Data](https://towardsdatascience.com/exploring-bike-share-data-3e3b2f28760c) by Clif Kranish(Jan 25, 2021)
 * [A Tale of Twenty-Two Million Citi Bike Rides](https://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/) by Todd W. Schneider(Jan 13, 2016)
