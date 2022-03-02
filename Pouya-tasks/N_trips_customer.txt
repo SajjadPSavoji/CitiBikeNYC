@@ -1,0 +1,12 @@
+This file is a function
+
+
+Input:
+
+-The address of the folder including all the understudied datesets
+-A address to export a csv file containing the date(month and year), Number of Trips, Number of Trips by members, The Number of Rental Trips
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+
+-A csv file containing the date(month and year), Number of Trips, Number of Trips by members, The Number of Rental Trips
