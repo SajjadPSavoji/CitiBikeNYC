@@ -126,7 +126,6 @@ def count_number_bikes(DIR_PATH, SAVE_PATH):
     df = pd.DataFrame(data=d)
     df.to_csv(SAVE_PATH, index=True)
         
-
 def count_cumulative_stations(DIR_PATH, SAVE_PATH):
     Start = {}
     End = {}
@@ -194,12 +193,8 @@ def count_cumulative_bikes(DIR_PATH, SAVE_PATH):
     df.to_csv(SAVE_PATH, index=True)
 
         
-
-    
-
 if __name__ == "__main__":
     DIR_PATH = r"D:\Amin\Education\Course\Data Analytics and Visualization (Winter 2021-2022)\Project\DataSet";
- 
     # Uncomment any one of the following functions to use them   
  
     #cal_number_trips(DIR_PATH, 'NumSub.csv')
