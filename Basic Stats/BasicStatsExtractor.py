@@ -197,8 +197,8 @@ if __name__ == "__main__":
     DIR_PATH = r"D:\Amin\Education\Course\Data Analytics and Visualization (Winter 2021-2022)\Project\DataSet";
     # Uncomment any one of the following functions to use them   
  
-    #cal_number_trips(DIR_PATH, 'NumSub.csv')
-    #(DIR_PATH, 'StartEndBike.csv')
-    #ount_number_bikes(DIR_PATH, 'NumBike.csv')
-    #count_cumulative_stations(DIR_PATH, 'StationCumulative.csv')
+    cal_number_trips(DIR_PATH, 'NumSub.csv')
+    count_number_stations(DIR_PATH, 'StartEndBike.csv')
+    count_number_bikes(DIR_PATH, 'NumBike.csv')
+    count_cumulative_stations(DIR_PATH, 'StationCumulative.csv')
     count_cumulative_bikes(DIR_PATH, 'BikeCumulative.csv')
