@@ -12,8 +12,9 @@ def read_csv(file_path):
 def scalable_histogram(data, verbose=False, bins=31):
     hist, binedges = np.histogram(data, bins=bins)
     if verbose:
-        plt.hist(hist, binedges)
+        plt.plot(binedges[:-1], hist)
         plt.show()
+        plt.grid()
     return hist, binedges
 
 def preprocess_on_columns(df, col_name, func, new_col=False, new_col_name=None):
@@ -37,7 +38,7 @@ def str_to_datetime(str_dt):
     return dt.datetime(year, month, day, hour, minute, second)
 
 def time_to_second(dt_i):
-    return dt_i.hour*60*60 + dt_i.minute*60 + dt_i.second 
+    return (dt_i.hour + dt_i.minute/60 + dt_i.second/3600) 
 
 def execute_on_dataset(csvs_path, func):
     results = []
