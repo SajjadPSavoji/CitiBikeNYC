@@ -1,0 +1,2 @@
+In this funcrion, the trips that theire latitudes and longitudes 
+of the stations are not in a specific range will be removed from the dataframe
