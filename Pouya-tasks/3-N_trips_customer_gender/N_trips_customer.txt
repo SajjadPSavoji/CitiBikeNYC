@@ -9,4 +9,8 @@ Input:
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Output:
 
--A csv file containing the date(month and year), Number of Trips, Number of Trips by members, The Number of Rental Trips
+-A csv file containing the date(month and year), Number of Trips, Number of Trips by members, The Number of Rental Trips. Also number of trips
+based on the gendres
+
+
+
