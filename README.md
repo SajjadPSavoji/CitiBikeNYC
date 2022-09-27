@@ -8,7 +8,7 @@ This data has been processed to remove trips that are taken by staff as they ser
 * [Project proposal](url)
 * [Slides](url)
 * [Codes](url)
-* [Final report](url)
+* [Final report](https://github.com/SajjadPSavoji/CitiBikeNYC/blob/main/DAV_Project%20Final%20Report.pdf)
 
 ## Additional resources
 * Citi Bike publishes real-time system data in <a href="https://github.com/NABSA/gbfs/blob/master/gbfs.md">General Bikeshare Feed Specification format</a>. Get the GBFS feed <a href="http://gbfs.citibikenyc.com/gbfs/gbfs.json">here</a>.
