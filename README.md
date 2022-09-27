@@ -7,7 +7,7 @@ This data has been processed to remove trips that are taken by staff as they ser
 ## Short links to contents
 * [Project proposal](https://github.com/SajjadPSavoji/CitiBikeNYC/tree/main/Proposal)
 * [Slides](url)
-* [Web Demoes](url)
+* [Web Demoes](https://github.com/SajjadPSavoji/CitiBikeNYC/tree/main/Web-Demos)
 * [Final report](https://github.com/SajjadPSavoji/CitiBikeNYC/blob/main/DAV_Project%20Final%20Report.pdf)
 
 ## Additional resources
