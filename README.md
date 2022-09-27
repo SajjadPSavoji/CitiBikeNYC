@@ -5,7 +5,7 @@ The data can be downloaded from the <a href="https://ride.citibikenyc.com/system
 This data has been processed to remove trips that are taken by staff as they service and inspect the system, trips that are taken to/from any of our “test” stations (which we were using more in June and July 2013), and any trips that were below 60 seconds in length (potentially false starts or users trying to re-dock a bike to ensure it's secure).
 
 ## Short links to contents
-* [Project proposal](url)
+* [Project proposal](https://github.com/SajjadPSavoji/CitiBikeNYC/tree/main/Proposal)
 * [Slides](url)
 * [Codes](url)
 * [Final report](https://github.com/SajjadPSavoji/CitiBikeNYC/blob/main/DAV_Project%20Final%20Report.pdf)
